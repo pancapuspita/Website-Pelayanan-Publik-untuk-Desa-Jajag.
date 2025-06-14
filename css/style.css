@@ -37,7 +37,7 @@ body {
 }
 
 .hero {
-  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url('../gambar/kantordesa.jpeg') center/cover no-repeat;
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url('/gambar/kantordesa.jpeg') center/cover no-repeat;
   color: #fff;
   height: 80vh;
   display: flex;
